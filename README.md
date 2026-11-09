@@ -1,7 +1,7 @@
 # Judge the Sample: my sampling app
 
 <!-- If your course asks for a public app, put its link on the next line. Otherwise delete this comment. -->
-App link (optional):
+Live application: https://jobczynski1295.github.io/judge-the-sample/
 
 **Central question:** Which sampling method would you trust for this population, at what sample size, and with what limits?
 
